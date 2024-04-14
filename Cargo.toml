@@ -15,6 +15,4 @@ license-file = "LICENSE"
 tokio = { version = "1.37.0", features = ["full"] }
 tokio-util = "0.7.10"
 
-[dev-dependencies]
-#opifex = { path = "./", version = "0.3" }
 
