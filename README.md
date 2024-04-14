@@ -1,9 +1,12 @@
 # Opifex
 
 [![Crates.io][crates-badge]][crates-url]
+[![Documentation][docs-badge]][docs-url]
 
 [crates-badge]: https://img.shields.io/crates/v/opifex.svg
 [crates-url]: https://crates.io/crates/opifex
+[docs-badge]:  https://docs.rs/opifex/badge.svg
+[docs-url]:  https://docs.rs/opifex/
 
 [Opifex][wiki] is a Latin word meaning *artisan* or *manufacturer* and referring to
 a **worker** who created something. This crate defines a `Worker<Mode>` struct
